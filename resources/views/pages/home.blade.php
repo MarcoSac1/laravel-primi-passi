@@ -9,6 +9,9 @@
 <body>
     <main>
         <h1>Hello World</h1>
+        <ul>
+            <li>{{ $name }} {{ $surname }}</li>
+        </ul>
     </main>
 </body>
 </html>
